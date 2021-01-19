@@ -19,4 +19,8 @@
   <a href="https://twitter.com/ztoben">Twitter</a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/zachary-toben-bbab4a84">LinkedIn</a>
+  &nbsp;&nbsp;
+  <a href="https://toben.dev/">Portfolio</a>
+  &nbsp;&nbsp;
+  <a href="https://www.toben-software.com/">Consulting</a>
 </p>
